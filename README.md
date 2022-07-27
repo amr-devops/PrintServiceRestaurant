@@ -5,7 +5,7 @@ https://apps.odoo.com/apps/modules/15.0/EasyERPS_pos_bluetooth_built-in_printer/
 # <a name="Android App Configuration"></a>Android App Configuration
 
 - Get the latest Print Service app in releases page :
-  https://github.com/amr-devops/PrintService/releases
+  https://github.com/amr-devops/PrintServiceRestaurant/releases
 - Download the Main.Service.apk file and install it on your android device
 - Open the app and follow the below instruction:
 

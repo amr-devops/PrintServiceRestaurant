@@ -1,6 +1,6 @@
 # Android Print Service App for Odoo POS Restaurant Bluetooth/Built-in Printer Module
 
-https://apps.odoo.com/apps/modules/15.0/EasyERPS_pos_bluetooth_built-in_printer/
+https://apps.odoo.com/apps/modules/15.0/EasyERPS_pos_bluetooth_built-in_printer_restaurant/
 
 # <a name="Android Apps Configuration"></a>Android Apps Configuration
 
